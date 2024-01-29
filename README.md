@@ -1,3 +1,4 @@
+# URL Shortener
 ### Installation
 1. You'll need docker and docker-compose installed on your machine.
 ```bash
